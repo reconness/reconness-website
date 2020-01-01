@@ -1,2 +1,2 @@
-# reconness-webapp
-Reconness Web App Tool
+# reconness-website
+Reconness Web Site
