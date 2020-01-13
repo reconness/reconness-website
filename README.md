@@ -1,2 +1,2 @@
-# reconness-website
-Reconness Web Site
+# ReconNess Website
+Reconness Landing Page
